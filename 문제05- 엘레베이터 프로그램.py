@@ -21,4 +21,3 @@ elif current_floor < target_floor:
 else:
     goDown()
     
-#값은 나오는데,, 이게 맞을까?
